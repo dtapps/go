@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="go-import" content="go.dtapp.net/gotime git https://github.com/dtapps/gotime">
+    <meta name="go-source" content="go.dtapp.net/gotime https://github.com/dtapps/gotime/ https://github.com/dtapps/gotime/tree/master{/dir} https://github.com/dtapps/gotime/blob/master{/dir}/{file}#L{line}">
+    <title>gotime</title>
+</head>
+<body>
+go get -v -u go.dtapp.net/gotime
+</body>
+</html>

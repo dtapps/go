@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="go-import" content="go.dtapp.net/goip git https://github.com/dtapps/goip">
+    <meta name="go-source" content="go.dtapp.net/goip https://github.com/dtapps/goip/ https://github.com/dtapps/goip/tree/master{/dir} https://github.com/dtapps/goip/blob/master{/dir}/{file}#L{line}">
+    <title>goip</title>
+</head>
+<body>
+go get -v -u go.dtapp.net/goip
+</body>
+</html>
